@@ -1,5 +1,7 @@
 # SWG - Simple Wordlist Generator
 
+![screenshot](https://github.com/sleepymincy/sleepymincy/blob/main/.gitfiles/repos/images/swg.gif)
+
 Simple, fast and NOT memory safe wordlist generator!~
 
 ## Quick Links:
